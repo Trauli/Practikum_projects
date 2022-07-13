@@ -9,7 +9,7 @@
  numpy \
  seaborn \
  pyplot \
- pymystem3 \
+ pymystem3 
  
 
 ## MKRF_project
@@ -44,7 +44,7 @@ pandas \
 numpy \
 seaborn \
 pyplot \
-stats from scipy \
+stats from scipy 
 
 ## Unit_analitics
 Исследование рекламной компании приложения ProcrastinatePro+ \
@@ -67,7 +67,7 @@ pandas \
 numpy \
 seaborn \
 pyplot \
-stats from scipy \
+stats from scipy 
 
 # Помимо прочего
 Помимо прочего имеется опыт работы с BI-системами (Tableau, Power BI), PostgreSQL, DBeaver, есть основные навыки работы с Git и GitHub, другими системами контроля версий. В зависимости от требований могу в короткое время выучить и научиться чему-то ещё, если это будет необходимо
