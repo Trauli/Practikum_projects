@@ -71,3 +71,5 @@ stats from scipy
 
 # Помимо прочего
 Помимо прочего имеется опыт работы с BI-системами (Tableau, Power BI), PostgreSQL, DBeaver, есть основные навыки работы с Git и GitHub, другими системами контроля версий. В зависимости от требований могу в короткое время выучить и научиться чему-то ещё, если это будет необходимо
+
+Ссылка на дашборд: https://public.tableau.com/app/profile/igor.mihailov/viz/Yandex_Zenanalytics/Yandex_Zenanalytics?publish=yes
